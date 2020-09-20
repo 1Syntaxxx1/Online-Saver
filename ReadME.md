@@ -14,6 +14,8 @@ first off, clone the repository with the below command
 
 git clone http://github.com/1Syntaxxx1/Online-Saver
 
+pip install requests
+
 secondly
 Navigate to the folder with the below command
 
